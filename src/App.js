@@ -37,8 +37,6 @@ const App = () => {
 
   myFunc2(6, 5, logOutput);
 
-  myFunc(...myObject)
-
   const heyThere = async () => {
     return await 5 * 6;
   };
